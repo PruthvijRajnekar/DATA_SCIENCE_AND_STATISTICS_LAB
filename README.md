@@ -112,8 +112,4 @@ For suggestions, collaboration, or feedback, feel free to reach out:
 - **Linkedin**:https://www.linkedin.com/in/pruthvij-rajnekar-9921182aa
 ---
 
-> **Note**: This repository is actively maintained and will continue to evolve as more algorithms and techniques are explored. Contributions are welcome!
-
----
-
 ⭐ If you find this project helpful, please consider starring the repository!
